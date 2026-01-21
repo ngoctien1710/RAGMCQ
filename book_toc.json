@@ -1,0 +1,1244 @@
+[
+    {
+        "book_id": "f5e98f33-0d76-4605-a029-ebb255b57091",
+        "book_name": "Giáo trình Pháp luật đại cương",
+        "content_start_page": 30,
+        "chapters": [
+            {
+                "chapter_id": "1",
+                "chapter_name": "NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM VÀ ĐỊA VỊ PHÁP LÝ CỦA CÁC CƠ QUAN TRONG BỘ MÁY NHÀ NƯỚC",
+                "start_page": 3,
+                "end_page": 47,
+                "sections": [
+                    {
+                        "section_id": "1.1",
+                        "section_name": "BẢN CHẤT NHÀ NƯỚC, KIỂU NHÀ NƯỚC VÀ HÌNH THỨC NHÀ NƯỚC",
+                        "start_page": 3,
+                        "end_page": 11,
+                        "parts": [
+                            {
+                                "part_id": "1.1.1",
+                                "part_name": "Bản chất nhà nước",
+                                "start_page": 3,
+                                "end_page": 6
+                            },
+                            {
+                                "part_id": "1.1.2",
+                                "part_name": "Kiểu nhà nước",
+                                "start_page": 7,
+                                "end_page": 7
+                            },
+                            {
+                                "part_id": "1.1.3",
+                                "part_name": "Hình thức nhà nước",
+                                "start_page": 8,
+                                "end_page": 11
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "1.2",
+                        "section_name": "BẢN CHẤT, CHỨC NĂNG CỦA NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+                        "start_page": 12,
+                        "end_page": 17,
+                        "parts": [
+                            {
+                                "part_id": "1.2.1",
+                                "part_name": "Bản chất của nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+                                "start_page": 12,
+                                "end_page": 14
+                            },
+                            {
+                                "part_id": "1.2.2",
+                                "part_name": "Chức năng của Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+                                "start_page": 15,
+                                "end_page": 17
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "1.3",
+                        "section_name": "BỘ MÁY NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+                        "start_page": 18,
+                        "end_page": 40,
+                        "parts": [
+                            {
+                                "part_id": "1.3.1",
+                                "part_name": "Khái niệm, đặc điểm và nguyên tắc của bộ máy Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+                                "start_page": 18,
+                                "end_page": 21
+                            },
+                            {
+                                "part_id": "1.3.2",
+                                "part_name": "Quốc hội",
+                                "start_page": 22,
+                                "end_page": 26
+                            },
+                            {
+                                "part_id": "1.3.3",
+                                "part_name": "Chủ tịch nước",
+                                "start_page": 27,
+                                "end_page": 28
+                            },
+                            {
+                                "part_id": "1.3.4",
+                                "part_name": "Chính phủ",
+                                "start_page": 29,
+                                "end_page": 31
+                            },
+                            {
+                                "part_id": "1.3.5",
+                                "part_name": "Hội đồng nhân dân và Uỷ ban nhân dân",
+                                "start_page": 32,
+                                "end_page": 35
+                            },
+                            {
+                                "part_id": "1.3.6",
+                                "part_name": "Toà án nhân dân và Viện kiểm sát nhân dân",
+                                "start_page": 36,
+                                "end_page": 40
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "1.4",
+                        "section_name": "HỆ THỐNG CHÍNH TRỊ CỦA NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+                        "start_page": 41,
+                        "end_page": 44,
+                        "parts": [
+                            {
+                                "part_id": "1.4.1",
+                                "part_name": "Khái niệm, đặc điểm của hệ thống chính trị của nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+                                "start_page": 41,
+                                "end_page": 41
+                            },
+                            {
+                                "part_id": "1.4.2",
+                                "part_name": "Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam trong hệ thống chính trị",
+                                "start_page": 42,
+                                "end_page": 42
+                            },
+                            {
+                                "part_id": "1.4.3",
+                                "part_name": "Đảng Cộng sản Việt Nam trong hệ thống chính trị",
+                                "start_page": 42,
+                                "end_page": 42
+                            },
+                            {
+                                "part_id": "1.4.4",
+                                "part_name": "Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội trong hệ thống chính trị",
+                                "start_page": 44,
+                                "end_page": 44
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "1.5",
+                        "section_name": "VẤN ĐỀ HOÀN THIỆN NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+                        "start_page": 45,
+                        "end_page": 46,
+                        "parts": [
+                            {
+                                "part_id": "1.5.1",
+                                "part_name": "Cải cách thể chế và phương pháp hoạt động của Nhà nước",
+                                "start_page": 45,
+                                "end_page": 45
+                            },
+                            {
+                                "part_id": "1.5.2",
+                                "part_name": "Phát huy dân chủ, giữ vững kỷ luật, kỷ cương, tăng cường pháp chế xã hội chủ nghĩa",
+                                "start_page": 45,
+                                "end_page": 45
+                            },
+                            {
+                                "part_id": "1.5.3",
+                                "part_name": "Xây dựng đội ngũ cán bộ, công chức trong sạch, có năng lực",
+                                "start_page": 46,
+                                "end_page": 46
+                            },
+                            {
+                                "part_id": "1.5.4",
+                                "part_name": "Đấu tranh chống tham nhũng",
+                                "start_page": 46,
+                                "end_page": 46
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "chapter_id": "2",
+                "chapter_name": "PHÁP LUẬT - CÔNG CỤ ĐIỀU CHỈNH CÁC MỐI QUAN HỆ XÃ HỘI",
+                "start_page": 49,
+                "end_page": 85,
+                "sections": [
+                    {
+                        "section_id": "2.1",
+                        "section_name": "BẢN CHẤT VÀ NHỮNG ĐẶC ĐIỂM CHUNG CỦA PHÁP LUẬT",
+                        "start_page": 49,
+                        "end_page": 58,
+                        "parts": [
+                            {
+                                "part_id": "2.1.1",
+                                "part_name": "Nguồn gốc của pháp luật",
+                                "start_page": 49,
+                                "end_page": 50
+                            },
+                            {
+                                "part_id": "2.1.2",
+                                "part_name": "Khái niệm và những đặc điểm chung của pháp luật",
+                                "start_page": 51,
+                                "end_page": 54
+                            },
+                            {
+                                "part_id": "2.1.3",
+                                "part_name": "Bản chất, vai trò của pháp luật Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+                                "start_page": 55,
+                                "end_page": 58
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "2.2",
+                        "section_name": "QUY PHẠM PHÁP LUẬT",
+                        "start_page": 59,
+                        "end_page": 63,
+                        "parts": [
+                            {
+                                "part_id": "2.2.1",
+                                "part_name": "Khái niệm và những đặc điểm của quy phạm pháp luật",
+                                "start_page": 59,
+                                "end_page": 59
+                            },
+                            {
+                                "part_id": "2.2.2",
+                                "part_name": "Cơ cấu của quy phạm pháp luật",
+                                "start_page": 60,
+                                "end_page": 62
+                            },
+                            {
+                                "part_id": "2.2.3",
+                                "part_name": "Những quy phạm pháp luật đặc biệt",
+                                "start_page": 63,
+                                "end_page": 63
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "2.3",
+                        "section_name": "QUAN HỆ PHÁP LUẬT",
+                        "start_page": 64,
+                        "end_page": 69,
+                        "parts": [
+                            {
+                                "part_id": "2.3.1",
+                                "part_name": "Khái niệm, bản chất của quan hệ pháp luật",
+                                "start_page": 64,
+                                "end_page": 64
+                            },
+                            {
+                                "part_id": "2.3.2",
+                                "part_name": "Chủ thể của quan hệ pháp luật",
+                                "start_page": 65,
+                                "end_page": 67
+                            },
+                            {
+                                "part_id": "2.3.3",
+                                "part_name": "Nội dung của quan hệ pháp luật",
+                                "start_page": 68,
+                                "end_page": 68
+                            },
+                            {
+                                "part_id": "2.3.4",
+                                "part_name": "Khách thể của quan hệ pháp luật",
+                                "start_page": 69,
+                                "end_page": 69
+                            },
+                            {
+                                "part_id": "2.3.5",
+                                "part_name": "Sự kiện pháp lý",
+                                "start_page": 69,
+                                "end_page": 69
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "2.4",
+                        "section_name": "THỰC HIỆN PHÁP LUẬT VÀ ÁP DỤNG PHÁP LUẬT",
+                        "start_page": 71,
+                        "end_page": 73,
+                        "parts": [
+                            {
+                                "part_id": "2.4.1",
+                                "part_name": "Khái niệm, ý nghĩa của thực hiện pháp luật",
+                                "start_page": 71,
+                                "end_page": 71
+                            },
+                            {
+                                "part_id": "2.4.2",
+                                "part_name": "Các hình thức thực hiện pháp luật",
+                                "start_page": 71,
+                                "end_page": 73
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "2.5",
+                        "section_name": "Ý THỨC PHÁP LUẬT",
+                        "start_page": 74,
+                        "end_page": 76,
+                        "parts": [
+                            {
+                                "part_id": "2.5.1",
+                                "part_name": "Khái niệm ý thức pháp luật",
+                                "start_page": 74,
+                                "end_page": 74
+                            },
+                            {
+                                "part_id": "2.5.2",
+                                "part_name": "Vai trò của ý thức pháp luật",
+                                "start_page": 75,
+                                "end_page": 75
+                            },
+                            {
+                                "part_id": "2.5.3",
+                                "part_name": "Bồi dưỡng, giáo dục và nâng cao ý thức pháp luật",
+                                "start_page": 76,
+                                "end_page": 76
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "2.6",
+                        "section_name": "VI PHẠM PHÁP LUẬT VÀ TRÁCH NHIỆM PHÁP LÝ",
+                        "start_page": 77,
+                        "end_page": 80,
+                        "parts": [
+                            {
+                                "part_id": "2.6.1",
+                                "part_name": "Bản chất và những dấu hiệu cơ bản của vi phạm pháp luật",
+                                "start_page": 77,
+                                "end_page": 78
+                            },
+                            {
+                                "part_id": "2.6.2",
+                                "part_name": "Trách nhiệm pháp lý",
+                                "start_page": 79,
+                                "end_page": 80
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "2.7",
+                        "section_name": "PHÁP CHẾ XÃ HỘI CHỦ NGHĨA",
+                        "start_page": 81,
+                        "end_page": 83,
+                        "parts": [
+                            {
+                                "part_id": "2.7.1",
+                                "part_name": "Khái niệm và đặc điểm của pháp chế xã hội chủ nghĩa của Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+                                "start_page": 81,
+                                "end_page": 82
+                            },
+                            {
+                                "part_id": "2.7.2",
+                                "part_name": "Tăng cường pháp chế xã hội chủ nghĩa đối với Nhà nước CHXHCN Việt Nam",
+                                "start_page": 83,
+                                "end_page": 83
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "chapter_id": "3",
+                "chapter_name": "HÌNH THỨC PHÁP LUẬT",
+                "start_page": 87,
+                "end_page": 144,
+                "sections": [
+                    {
+                        "section_id": "3.1",
+                        "section_name": "KHÁI NIỆM VÀ PHÂN LOẠI HÌNH THỨC PHÁP LUẬT",
+                        "start_page": 87,
+                        "end_page": 96,
+                        "parts": [
+                            {
+                                "part_id": "3.1.1",
+                                "part_name": "Khái niệm, đặc điểm của hình thức pháp luật",
+                                "start_page": 87,
+                                "end_page": 87
+                            },
+                            {
+                                "part_id": "3.1.2",
+                                "part_name": "Các loại hình thức pháp luật",
+                                "start_page": 88,
+                                "end_page": 89
+                            },
+                            {
+                                "part_id": "3.1.3",
+                                "part_name": "Nguồn pháp luật của một số nước trên thế giới",
+                                "start_page": 90,
+                                "end_page": 96
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "3.2",
+                        "section_name": "VĂN BẢN QUY PHẠM PHÁP LUẬT - HÌNH THỨC PHÁP LUẬT CỦA NHÀ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+                        "start_page": 97,
+                        "end_page": 110,
+                        "parts": [
+                            {
+                                "part_id": "3.2.1",
+                                "part_name": "Khái niệm, đặc điểm của văn bản quy phạm pháp luật",
+                                "start_page": 97,
+                                "end_page": 98
+                            },
+                            {
+                                "part_id": "3.2.2",
+                                "part_name": "Số, ký hiệu của văn bản quy phạm pháp luật",
+                                "start_page": 99,
+                                "end_page": 99
+                            },
+                            {
+                                "part_id": "3.2.3",
+                                "part_name": "Nguyên tắc ban hành văn bản quy phạm pháp luật",
+                                "start_page": 100,
+                                "end_page": 103
+                            },
+                            {
+                                "part_id": "3.2.4",
+                                "part_name": "Hệ thống văn bản quy phạm pháp luật của nước CHXHCN Việt Nam",
+                                "start_page": 104,
+                                "end_page": 108
+                            },
+                            {
+                                "part_id": "3.2.5",
+                                "part_name": "Văn bản quy định chi tiết và việc sửa đổi, bổ sung, thay thế, huỷ bỏ, bãi bỏ hoặc đình chỉ việc thi hành văn bản quy phạm pháp luật",
+                                "start_page": 109,
+                                "end_page": 109
+                            },
+                            {
+                                "part_id": "3.2.6",
+                                "part_name": "Giải thích luật, pháp lệnh",
+                                "start_page": 110,
+                                "end_page": 110
+                            },
+                            {
+                                "part_id": "3.2.7",
+                                "part_name": "Xây dựng, ban hành văn bản quy phạm pháp luật theo trình tự, thủ tục rút gọn",
+                                "start_page": 111,
+                                "end_page": 111
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "3.3",
+                        "section_name": "HIỆU LỰC CỦA VĂN BẢN QUY PHẠM PHÁP LUẬT VÀ NGUYÊN TẮC ÁP DỤNG VĂN BẢN QUY PHẠM PHÁP LUẬT",
+                        "start_page": 111,
+                        "end_page": 126,
+                        "parts": [
+                            {
+                                "part_id": "3.3.1",
+                                "part_name": "Hiệu lực của văn bản quy phạm pháp luật",
+                                "start_page": 111,
+                                "end_page": 115
+                            },
+                            {
+                                "part_id": "3.3.2",
+                                "part_name": "Nguyên tắc áp dụng, đăng tải và đưa tin văn bản quy phạm pháp luật",
+                                "start_page": 116,
+                                "end_page": 117
+                            },
+                            {
+                                "part_id": "3.3.3",
+                                "part_name": "Kiểm tra và xử lý văn bản quy phạm pháp luật trái pháp luật",
+                                "start_page": 118,
+                                "end_page": 126
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "3.4",
+                        "section_name": "ĐIỀU ƯỚC QUỐC TẾ",
+                        "start_page": 127,
+                        "end_page": 140,
+                        "parts": [
+                            {
+                                "part_id": "3.4.1",
+                                "part_name": "Khái niệm và phân loại",
+                                "start_page": 127,
+                                "end_page": 129
+                            },
+                            {
+                                "part_id": "3.4.2",
+                                "part_name": "Các thỏa thuận quốc tế",
+                                "start_page": 130,
+                                "end_page": 131
+                            },
+                            {
+                                "part_id": "3.4.3",
+                                "part_name": "Khái quát quá trình ký kết và gia nhập điều ước quốc tế",
+                                "start_page": 132,
+                                "end_page": 138
+                            },
+                            {
+                                "part_id": "3.4.4",
+                                "part_name": "Hiệu lực của điều ước quốc tế",
+                                "start_page": 139,
+                                "end_page": 139
+                            },
+                            {
+                                "part_id": "3.4.5",
+                                "part_name": "Mối quan hệ giữa điều ước quốc tế và pháp luật quốc gia",
+                                "start_page": 140,
+                                "end_page": 140
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "3.5",
+                        "section_name": "HỆ THỐNG HÓA PHÁP LUẬT",
+                        "start_page": 141,
+                        "end_page": 142,
+                        "parts": [
+                            {
+                                "part_id": "3.5.1",
+                                "part_name": "Tập hợp hoá",
+                                "start_page": 142,
+                                "end_page": 142
+                            },
+                            {
+                                "part_id": "3.5.2",
+                                "part_name": "Pháp điển hoá",
+                                "start_page": 142,
+                                "end_page": 142
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "chapter_id": "4",
+                "chapter_name": "HỆ THỐNG PHÁP LUẬT",
+                "start_page": 145,
+                "end_page": 181,
+                "sections": [
+                    {
+                        "section_id": "4.1",
+                        "section_name": "HỆ THỐNG PHÁP LUẬT VÀ NGÀNH LUẬT",
+                        "start_page": 145,
+                        "end_page": 147,
+                        "parts": [
+                            {
+                                "part_id": "4.1.1",
+                                "part_name": "Khái niệm, đặc điểm của hệ thống pháp luật",
+                                "start_page": 145,
+                                "end_page": 146
+                            },
+                            {
+                                "part_id": "4.1.2",
+                                "part_name": "Những căn cứ để phân chia ngành luật",
+                                "start_page": 147,
+                                "end_page": 147
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "4.2",
+                        "section_name": "CÁC NGÀNH LUẬT TRONG HỆ THỐNG PHÁP LUẬT CỦA NHÀ NƯỚC CHXHCN VIỆT NAM",
+                        "start_page": 148,
+                        "end_page": 173,
+                        "parts": [
+                            {
+                                "part_id": "4.2.1",
+                                "part_name": "Luật nhà nước (Luật Hiến pháp)",
+                                "start_page": 148,
+                                "end_page": 150
+                            },
+                            {
+                                "part_id": "4.2.2",
+                                "part_name": "Luật hành chính",
+                                "start_page": 151,
+                                "end_page": 151
+                            },
+                            {
+                                "part_id": "4.2.3",
+                                "part_name": "Luật tài chính",
+                                "start_page": 152,
+                                "end_page": 152
+                            },
+                            {
+                                "part_id": "4.2.4",
+                                "part_name": "Luật đất đai",
+                                "start_page": 153,
+                                "end_page": 154
+                            },
+                            {
+                                "part_id": "4.2.5",
+                                "part_name": "Luật dân sự",
+                                "start_page": 155,
+                                "end_page": 157
+                            },
+                            {
+                                "part_id": "4.2.6",
+                                "part_name": "Luật lao động",
+                                "start_page": 158,
+                                "end_page": 163
+                            },
+                            {
+                                "part_id": "4.2.7",
+                                "part_name": "Luật hôn nhân và gia đình",
+                                "start_page": 164,
+                                "end_page": 167
+                            },
+                            {
+                                "part_id": "4.2.8",
+                                "part_name": "Luật hình sự",
+                                "start_page": 168,
+                                "end_page": 169
+                            },
+                            {
+                                "part_id": "4.2.9",
+                                "part_name": "Luật kinh tế",
+                                "start_page": 170,
+                                "end_page": 170
+                            },
+                            {
+                                "part_id": "4.2.10",
+                                "part_name": "Luật tố tụng hình sự",
+                                "start_page": 170,
+                                "end_page": 171
+                            },
+                            {
+                                "part_id": "4.2.11",
+                                "part_name": "Luật tố tụng dân sự",
+                                "start_page": 172,
+                                "end_page": 172
+                            },
+                            {
+                                "part_id": "4.2.12",
+                                "part_name": "Luật tố tụng hành chính",
+                                "start_page": 173,
+                                "end_page": 173
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "4.3",
+                        "section_name": "HỆ THỐNG PHÁP LUẬT QUỐC TẾ",
+                        "start_page": 174,
+                        "end_page": 178,
+                        "parts": [
+                            {
+                                "part_id": "4.3.1",
+                                "part_name": "Công pháp quốc tế (Luật quốc tế)",
+                                "start_page": 174,
+                                "end_page": 176
+                            },
+                            {
+                                "part_id": "4.3.2",
+                                "part_name": "Tư pháp quốc tế",
+                                "start_page": 177,
+                                "end_page": 178
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "4.4",
+                        "section_name": "HỆ THỐNG KHOA HỌC PHÁP LÝ (HỆ THỐNG LUẬT HỌC)",
+                        "start_page": 179,
+                        "end_page": 179,
+                        "parts": []
+                    }
+                ]
+            },
+            {
+                "chapter_id": "5",
+                "chapter_name": "LUẬT HÀNH CHÍNH VIỆT NAM",
+                "start_page": 183,
+                "end_page": 251,
+                "sections": [
+                    {
+                        "section_id": "5.1",
+                        "section_name": "KHÁI NIỆM CHUNG VỀ LUẬT HÀNH CHÍNH",
+                        "start_page": 183,
+                        "end_page": 189,
+                        "parts": [
+                            {
+                                "part_id": "5.1.1",
+                                "part_name": "Đối tượng và phương pháp điều chỉnh của luật hành chính",
+                                "start_page": 183,
+                                "end_page": 184
+                            },
+                            {
+                                "part_id": "5.1.2",
+                                "part_name": "Hệ thống luật hành chính",
+                                "start_page": 185,
+                                "end_page": 185
+                            },
+                            {
+                                "part_id": "5.1.3",
+                                "part_name": "Quan hệ pháp luật hành chính",
+                                "start_page": 186,
+                                "end_page": 187
+                            },
+                            {
+                                "part_id": "5.1.4",
+                                "part_name": "Luật hành chính với việc xây dựng và hoàn thiện bộ máy Nhà nước và công cuộc đổi mới ở nước ta hiện nay",
+                                "start_page": 188,
+                                "end_page": 189
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "5.2",
+                        "section_name": "CƠ QUAN HÀNH CHÍNH NHÀ NƯỚC",
+                        "start_page": 190,
+                        "end_page": 196,
+                        "parts": [
+                            {
+                                "part_id": "5.2.1",
+                                "part_name": "Khái niệm và đặc điểm cơ quan hành chính nhà nước",
+                                "start_page": 190,
+                                "end_page": 190
+                            },
+                            {
+                                "part_id": "5.2.2",
+                                "part_name": "Các loại cơ quan hành chính nhà nước",
+                                "start_page": 191,
+                                "end_page": 192
+                            },
+                            {
+                                "part_id": "5.2.3",
+                                "part_name": "Địa vị pháp lý của các cơ quan hành chính nhà nước",
+                                "start_page": 193,
+                                "end_page": 196
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "5.3",
+                        "section_name": "THỦ TỤC HÀNH CHÍNH VÀ VĂN BẢN HÀNH CHÍNH NHÀ NƯỚC",
+                        "start_page": 197,
+                        "end_page": 204,
+                        "parts": [
+                            {
+                                "part_id": "5.3.1",
+                                "part_name": "Thủ tục hành chính",
+                                "start_page": 197,
+                                "end_page": 202
+                            },
+                            {
+                                "part_id": "5.3.2",
+                                "part_name": "Văn bản hành chính nhà nước",
+                                "start_page": 203,
+                                "end_page": 204
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "5.4",
+                        "section_name": "QUY CHẾ PHÁP LÝ HÀNH CHÍNH CỦA CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC",
+                        "start_page": 205,
+                        "end_page": 217,
+                        "parts": [
+                            {
+                                "part_id": "5.4.1",
+                                "part_name": "Khái niệm cán bộ, công chức",
+                                "start_page": 205,
+                                "end_page": 210
+                            },
+                            {
+                                "part_id": "5.4.2",
+                                "part_name": "Những nội dung chủ yếu trong quy chế pháp lý hành chính của cán bộ, công chức",
+                                "start_page": 211,
+                                "end_page": 217
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "5.5",
+                        "section_name": "QUY CHẾ PHÁP LÝ HÀNH CHÍNH ĐỐI VỚI CÁC TỔ CHỨC XÃ HỘI, CÔNG DÂN, NGƯỜI NƯỚC NGOÀI, NGƯỜI KHÔNG QUỐC TỊCH",
+                        "start_page": 218,
+                        "end_page": 222,
+                        "parts": [
+                            {
+                                "part_id": "5.5.1",
+                                "part_name": "Các tổ chức xã hội",
+                                "start_page": 218,
+                                "end_page": 219
+                            },
+                            {
+                                "part_id": "5.5.2",
+                                "part_name": "Công dân",
+                                "start_page": 220,
+                                "end_page": 221
+                            },
+                            {
+                                "part_id": "5.5.3",
+                                "part_name": "Người nước ngoài và người không quốc tịch",
+                                "start_page": 222,
+                                "end_page": 222
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "5.6",
+                        "section_name": "TRÁCH NHIỆM HÀNH CHÍNH",
+                        "start_page": 223,
+                        "end_page": 231,
+                        "parts": [
+                            {
+                                "part_id": "5.6.1",
+                                "part_name": "Vi phạm hành chính",
+                                "start_page": 223,
+                                "end_page": 223
+                            },
+                            {
+                                "part_id": "5.6.2",
+                                "part_name": "Trách nhiệm hành chính",
+                                "start_page": 224,
+                                "end_page": 231
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "5.7",
+                        "section_name": "CHẾ ĐỘ PHÁP LÝ VỀ VIỆC GIẢI QUYẾT CÁC KHIẾU NẠI, TỐ CÁO",
+                        "start_page": 232,
+                        "end_page": 238,
+                        "parts": [
+                            {
+                                "part_id": "5.7.1",
+                                "part_name": "Khiếu nại và việc giải quyết khiếu nại",
+                                "start_page": 232,
+                                "end_page": 236
+                            },
+                            {
+                                "part_id": "5.7.2",
+                                "part_name": "Tố cáo và việc giải quyết tố cáo",
+                                "start_page": 237,
+                                "end_page": 238
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "5.8",
+                        "section_name": "NỘI DUNG CƠ BẢN CỦA TỐ TỤNG HÀNH CHÍNH",
+                        "start_page": 239,
+                        "end_page": 249,
+                        "parts": [
+                            {
+                                "part_id": "5.8.1",
+                                "part_name": "Khái niệm và ý nghĩa của việc giải quyết các vụ án hành chính",
+                                "start_page": 239,
+                                "end_page": 241
+                            },
+                            {
+                                "part_id": "5.8.2",
+                                "part_name": "Thẩm quyền của Toà án trong việc giải quyết các vụ án hành chính",
+                                "start_page": 242,
+                                "end_page": 244
+                            },
+                            {
+                                "part_id": "5.8.3",
+                                "part_name": "Thủ tục giải quyết các vụ án hành chính",
+                                "start_page": 245,
+                                "end_page": 249
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "chapter_id": "6",
+                "chapter_name": "LUẬT DÂN SỰ VIỆT NAM",
+                "start_page": 253,
+                "end_page": 327,
+                "sections": [
+                    {
+                        "section_id": "6.1",
+                        "section_name": "KHÁI NIỆM CHUNG VỀ NGÀNH LUẬT DÂN SỰ",
+                        "start_page": 253,
+                        "end_page": 264,
+                        "parts": [
+                            {
+                                "part_id": "6.1.1",
+                                "part_name": "Đối tượng và phương pháp điều chỉnh của luật dân sự",
+                                "start_page": 253,
+                                "end_page": 254
+                            },
+                            {
+                                "part_id": "6.1.2",
+                                "part_name": "Nguồn và hệ thống pháp luật dân sự",
+                                "start_page": 255,
+                                "end_page": 256
+                            },
+                            {
+                                "part_id": "6.1.3",
+                                "part_name": "Quan hệ pháp luật dân sự",
+                                "start_page": 257,
+                                "end_page": 264
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "6.2",
+                        "section_name": "TÀI SẢN VÀ QUYỀN SỞ HỮU",
+                        "start_page": 265,
+                        "end_page": 273,
+                        "parts": [
+                            {
+                                "part_id": "6.2.1",
+                                "part_name": "Tài sản",
+                                "start_page": 265,
+                                "end_page": 266
+                            },
+                            {
+                                "part_id": "6.2.2",
+                                "part_name": "Khái niệm, nội dung quyền sở hữu",
+                                "start_page": 267,
+                                "end_page": 269
+                            },
+                            {
+                                "part_id": "6.2.3",
+                                "part_name": "Các hình thức sở hữu ở Việt Nam",
+                                "start_page": 270,
+                                "end_page": 273
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "6.3",
+                        "section_name": "NGHĨA VỤ DÂN SỰ VÀ HỢP ĐỒNG DÂN SỰ",
+                        "start_page": 274,
+                        "end_page": 286,
+                        "parts": [
+                            {
+                                "part_id": "6.3.1",
+                                "part_name": "Khái niệm và căn cứ phát sinh nghĩa vụ dân sự",
+                                "start_page": 274,
+                                "end_page": 274
+                            },
+                            {
+                                "part_id": "6.3.2",
+                                "part_name": "Các biện pháp bảo đảm thực hiện nghĩa vụ dân sự",
+                                "start_page": 274,
+                                "end_page": 277
+                            },
+                            {
+                                "part_id": "6.3.3",
+                                "part_name": "Hợp đồng dân sự",
+                                "start_page": 278,
+                                "end_page": 286
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "6.4",
+                        "section_name": "TRÁCH NHIỆM DÂN SỰ",
+                        "start_page": 287,
+                        "end_page": 292,
+                        "parts": [
+                            {
+                                "part_id": "6.4.1",
+                                "part_name": "Trách nhiệm dân sự do vi phạm nghĩa vụ dân sự",
+                                "start_page": 287,
+                                "end_page": 289
+                            },
+                            {
+                                "part_id": "6.4.2",
+                                "part_name": "Trách nhiệm bồi thường thiệt hại ngoài hợp đồng",
+                                "start_page": 290,
+                                "end_page": 292
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "6.5",
+                        "section_name": "THỪA KẾ",
+                        "start_page": 293,
+                        "end_page": 298,
+                        "parts": [
+                            {
+                                "part_id": "6.5.1",
+                                "part_name": "Khái niệm thừa kế và nguyên tắc pháp luật về thừa kế",
+                                "start_page": 293,
+                                "end_page": 293
+                            },
+                            {
+                                "part_id": "6.5.2",
+                                "part_name": "Thừa kế theo di chúc",
+                                "start_page": 294,
+                                "end_page": 296
+                            },
+                            {
+                                "part_id": "6.5.3",
+                                "part_name": "Thừa kế theo pháp luật",
+                                "start_page": 297,
+                                "end_page": 298
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "6.6",
+                        "section_name": "QUYỀN SỞ HỮU TRÍ TUỆ VÀ CHUYỂN GIAO CÔNG NGHỆ",
+                        "start_page": 299,
+                        "end_page": 315,
+                        "parts": [
+                            {
+                                "part_id": "6.6.1",
+                                "part_name": "Khái niệm quyền sở hữu trí tuệ, ý nghĩa của pháp luật về quyền sở hữu trí tuệ và chuyển giao công nghệ",
+                                "start_page": 299,
+                                "end_page": 302
+                            },
+                            {
+                                "part_id": "6.6.2",
+                                "part_name": "Quyền tác giả và quyền liên quan",
+                                "start_page": 303,
+                                "end_page": 305
+                            },
+                            {
+                                "part_id": "6.6.3",
+                                "part_name": "Quyền sở hữu công nghiệp",
+                                "start_page": 306,
+                                "end_page": 308
+                            },
+                            {
+                                "part_id": "6.6.4",
+                                "part_name": "Quyền đối với giống cây trồng",
+                                "start_page": 309,
+                                "end_page": 310
+                            },
+                            {
+                                "part_id": "6.6.5",
+                                "part_name": "Chuyển giao công nghệ",
+                                "start_page": 311,
+                                "end_page": 312
+                            },
+                            {
+                                "part_id": "6.6.6",
+                                "part_name": "Bảo vệ quyền sở hữu trí tuệ",
+                                "start_page": 313,
+                                "end_page": 315
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "6.7",
+                        "section_name": "NỘI DUNG CƠ BẢN CỦA TỐ TỤNG DÂN SỰ",
+                        "start_page": 316,
+                        "end_page": 325,
+                        "parts": [
+                            {
+                                "part_id": "6.7.1",
+                                "part_name": "Khái niệm vụ việc dân sự và pháp luật về tố tụng dân sự",
+                                "start_page": 316,
+                                "end_page": 316
+                            },
+                            {
+                                "part_id": "6.7.2",
+                                "part_name": "Những nguyên tắc của tố tụng dân sự",
+                                "start_page": 317,
+                                "end_page": 317
+                            },
+                            {
+                                "part_id": "6.7.3",
+                                "part_name": "Thẩm quyền của Toà án nhân dân",
+                                "start_page": 318,
+                                "end_page": 319
+                            },
+                            {
+                                "part_id": "6.7.4",
+                                "part_name": "Các giai đoạn của tố tụng dân sự",
+                                "start_page": 320,
+                                "end_page": 325
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "chapter_id": "7",
+                "chapter_name": "LUẬT HÌNH SỰ VIỆT NAM",
+                "start_page": 329,
+                "end_page": 380,
+                "sections": [
+                    {
+                        "section_id": "7.1",
+                        "section_name": "KHÁI NIỆM CHUNG VỀ LUẬT HÌNH SỰ",
+                        "start_page": 329,
+                        "end_page": 336,
+                        "parts": [
+                            {
+                                "part_id": "7.1.1",
+                                "part_name": "Khái niệm luật hình sự",
+                                "start_page": 329,
+                                "end_page": 330
+                            },
+                            {
+                                "part_id": "7.1.2",
+                                "part_name": "Các nguyên tắc của Luật hình sự Việt Nam",
+                                "start_page": 330,
+                                "end_page": 332
+                            },
+                            {
+                                "part_id": "7.1.3",
+                                "part_name": "Bộ Luật hình sự Việt Nam",
+                                "start_page": 333,
+                                "end_page": 336
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "7.2",
+                        "section_name": "TỘI PHẠM",
+                        "start_page": 337,
+                        "end_page": 346,
+                        "parts": [
+                            {
+                                "part_id": "7.2.1",
+                                "part_name": "Khái niệm, đặc điểm của tội phạm",
+                                "start_page": 337,
+                                "end_page": 340
+                            },
+                            {
+                                "part_id": "7.2.2",
+                                "part_name": "Phân loại tội phạm",
+                                "start_page": 341,
+                                "end_page": 341
+                            },
+                            {
+                                "part_id": "7.2.3",
+                                "part_name": "Đồng phạm",
+                                "start_page": 342,
+                                "end_page": 342
+                            },
+                            {
+                                "part_id": "7.2.4",
+                                "part_name": "Những trường hợp loại trừ trách nhiệm hình sự",
+                                "start_page": 343,
+                                "end_page": 346
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "7.3",
+                        "section_name": "HÌNH PHẠT",
+                        "start_page": 347,
+                        "end_page": 360,
+                        "parts": [
+                            {
+                                "part_id": "7.3.1",
+                                "part_name": "Khái niệm hình phạt",
+                                "start_page": 347,
+                                "end_page": 347
+                            },
+                            {
+                                "part_id": "7.3.2",
+                                "part_name": "Hệ thống hình phạt",
+                                "start_page": 348,
+                                "end_page": 350
+                            },
+                            {
+                                "part_id": "7.3.3",
+                                "part_name": "Các biện pháp tư pháp",
+                                "start_page": 351,
+                                "end_page": 352
+                            },
+                            {
+                                "part_id": "7.3.4",
+                                "part_name": "Quyết định hình phạt",
+                                "start_page": 353,
+                                "end_page": 355
+                            },
+                            {
+                                "part_id": "7.3.5",
+                                "part_name": "Chấp hành hình phạt",
+                                "start_page": 356,
+                                "end_page": 360
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "7.4",
+                        "section_name": "TỘI PHẠM TRONG BỘ LUẬT HÌNH SỰ VIỆT NAM",
+                        "start_page": 361,
+                        "end_page": 365,
+                        "parts": [
+                            {
+                                "part_id": "7.4.1",
+                                "part_name": "Cơ cấu phần các tội phạm",
+                                "start_page": 361,
+                                "end_page": 361
+                            },
+                            {
+                                "part_id": "7.4.2",
+                                "part_name": "Những tội phạm liên quan đến quản lý kinh tế và kinh doanh",
+                                "start_page": 362,
+                                "end_page": 365
+                            }
+                        ]
+                    },
+                    {
+                        "section_id": "7.5",
+                        "section_name": "NỘI DUNG CƠ BẢN CỦA TỐ TỤNG HÌNH SỰ",
+                        "start_page": 366,
+                        "end_page": 379,
+                        "parts": [
+                            {
+                                "part_id": "7.5.1",
+                                "part_name": "Khởi tố vụ án hình sự",
+                                "start_page": 366,
+                                "end_page": 366
+                            },
+                            {
+                                "part_id": "7.5.2",
+                                "part_name": "Điều tra vụ án hình sự",
+                                "start_page": 367,
+                                "end_page": 367
+                            },
+                            {
+                                "part_id": "7.5.3",
+                                "part_name": "Truy tố bị can",
+                                "start_page": 368,
+                                "end_page": 368
+                            },
+                            {
+                                "part_id": "7.5.4",
+                                "part_name": "Xét xử sơ thẩm vụ án hình sự",
+                                "start_page": 369,
+                                "end_page": 371
+                            },
+                            {
+                                "part_id": "7.5.5",
+                                "part_name": "Xét xử phúc thẩm",
+                                "start_page": 372,
+                                "end_page": 372
+                            },
+                            {
+                                "part_id": "7.5.6",
+                                "part_name": "Thi hành bản án và quyết định của toà án",
+                                "start_page": 373,
+                                "end_page": 373
+                            },
+                            {
+                                "part_id": "7.5.7",
+                                "part_name": "Xét lại bản án và quyết định đã có hiệu lực pháp luật",
+                                "start_page": 374,
+                                "end_page": 377
+                            },
+                            {
+                                "part_id": "7.5.8",
+                                "part_name": "Thủ tục rút gọn",
+                                "start_page": 378,
+                                "end_page": 379
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
