@@ -33,7 +33,7 @@ def get_page_text(book_id: str, start_page: int, num_pages: int = 1) -> str:
         response.raise_for_status()
 
         texts.append(
-            response.json()["data"]["embeddings"][0]["text"]
+            f'page physical: {start_page + i} \n' + response.json()["data"]["embeddings"][0]["text"]
         )
 
     return "\n".join(texts)

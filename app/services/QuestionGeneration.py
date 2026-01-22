@@ -8,8 +8,8 @@ class QuestionGenerator:
     def __init__(self, llm_type="mistral"):
         self.llm = CustomLanguageModel(llm_type)
 
-    def generate(self, context: str, num_questions: int = 5, max_new_tokens: int = 512) -> MCQSet:
-        prompt = self._build_prompt(context, num_questions)
+    def generate(self, bookid: str, context: str, num_questions: int = 5, max_new_tokens: int = 512) -> MCQSet:
+        prompt = self._build_prompt(bookid, context, num_questions)
         response = self.llm.generate(prompt, max_new_tokens=max_new_tokens)
 
         try:
@@ -18,18 +18,17 @@ class QuestionGenerator:
             data = extract_json(response)
 
         mcq_set = MCQSet(**data)
-
         if len(mcq_set.questions) != num_questions:
             raise ValueError("Wrong number of MCQs generated")
 
         return mcq_set
     
 
-    def _build_prompt(self, context: str, num_questions: int) -> str:
+    def _build_prompt(self, toc_book: str, context: str, num_questions: int) -> str:
         return f"""
-            Từ nội dung sau, hãy tạo {num_questions} câu hỏi trắc nghiệm (MCQ).
-
+            HÃY TẠO CÂU HỎI TRẮC NGHIỆM (MCQ) TỪ NỘI DUNG DƯỚI ĐÂY THEO
             YÊU CẦU:
+            - chỉ tạo đúng {num_questions} câu hỏi trắc nghiệm (MCQ).
             - Mỗi câu hỏi có 4 lựa chọn (options)
             - Mỗi câu chỉ có 1 đáp án đúng
             - correct_index là chỉ số trong options
@@ -39,7 +38,8 @@ class QuestionGenerator:
 
             OUTPUT PHẢI THEO JSON SCHEMA SAU:
             {MCQSet.model_json_schema()}
-
+            NỘI DUNG MỤC LỤC SÁCH:
+            \"\"\"{toc_book}\"\"\"
             NỘI DUNG:
             \"\"\"{context}\"\"\"
         """

@@ -1,10 +1,10 @@
 from typing import List, Optional
 from pydantic import BaseModel
-
+from pydantic import Field
 
 class Part(BaseModel):
     part_id: Optional[str]
-    part_name: str
+    part_name: str 
     start_page: int   # logical
     end_page: int     # logical
 
@@ -29,8 +29,7 @@ class Book(BaseModel):
     book_id: Optional[str]
     book_name: str
 
-    content_start_page: int  
-    # physical index where logical page == 1
+    content_start_page: int = Field(description="Physical index where logical page == 1 (The beginning of the content is actually based on physical pages.)")
 
     chapters: List[Chapter]
 
